@@ -14,5 +14,5 @@ jobs:
         run: |
           # Your ML workflow goes here
           pip install -r requirements.txt
-          python multivariatetimeseries.py
+          python multivariate timeseries.py
      
